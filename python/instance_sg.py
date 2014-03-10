@@ -11,7 +11,7 @@ import boto
 def running():
     ec2 = conn_default.get_all_reservations()
     for instance in ec2:
-        print instance.groups[0].name
+        print instance.id, instance.groups[0].name
 
 if __name__ == "__main__":
    conn_default = boto.connect_ec2()

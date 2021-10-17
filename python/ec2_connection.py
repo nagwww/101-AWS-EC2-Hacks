@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 """
--Author : Nag m
+- author : Nag m
 - Hack   : Create a connection to EC2 
 - Info   : Create a connection to EC2 ( The default is always us-east-1 even if region is passed to it)
 """

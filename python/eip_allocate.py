@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 """
-- Author : Nag m
+- author : Nag m
 - Hack   : Allocate an EIP Address
 - Info   : Allocate an EIP Address
 """

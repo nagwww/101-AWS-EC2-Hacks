@@ -2,7 +2,7 @@
 
 """
 tes
-- Author: Nag m
+- Author: Nag pranav
 - Hack   : Create a connection to EC2 
 - Info   : Create a connection to EC2 ( The default is always us-east-1 even if region is passed to it)
 """

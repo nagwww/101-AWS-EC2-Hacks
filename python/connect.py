@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 """
-- Author : Nag m
+-author : Nag m
 - Hack   : Connect to ec2
 - Info   : Connect to ec2
 """
